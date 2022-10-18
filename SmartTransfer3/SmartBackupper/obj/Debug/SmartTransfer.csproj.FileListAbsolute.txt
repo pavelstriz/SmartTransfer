@@ -1,0 +1,14 @@
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\bin\Debug\SmartBackupper.exe.config
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\bin\Debug\SmartBackupper.exe
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\bin\Debug\SmartBackupper.pdb
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartTransfer.csproj.AssemblyReference.cache
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.AddPath.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.ComparePaths.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.MainForm.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.ProgressForm.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.Properties.Resources.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.UC_listbox1.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartTransfer.csproj.GenerateResource.cache
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartTransfer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.exe
+D:\Projekty\C#\Winforms\SmartTransfer\SmartTransfer3\SmartBackupper\obj\Debug\SmartBackupper.pdb

@@ -1,0 +1,65 @@
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.exe.config
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.exe
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.pdb
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.Properties.Resources.resources
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csproj.GenerateResource.cache
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.exe
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.pdb
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.MainForm.resources
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.UC_listbox1.resources
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csprojAssemblyReference.cache
+Z:\__Pavel\Projects\_Visual Studio\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.AddPath.resources
+D:\Projekty\C#\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.exe.config
+D:\Projekty\C#\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.exe
+D:\Projekty\C#\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.pdb
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.AddPath.resources
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.ComparePaths.resources
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.MainForm.resources
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.Properties.Resources.resources
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.UC_listbox1.resources
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csproj.GenerateResource.cache
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.exe
+D:\Projekty\C#\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.pdb
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.exe.config
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.exe
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\bin\Debug\SmartBackupper.pdb
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.AddPath.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.ComparePaths.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.MainForm.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.Properties.Resources.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.UC_listbox1.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csproj.GenerateResource.cache
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.exe
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.pdb
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.ProgressForm.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper\SmartBackupper\obj\Debug\SmartBackupper.csproj.AssemblyReference.cache
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\bin\Debug\SmartBackupper.exe.config
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\bin\Debug\SmartBackupper.exe
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\bin\Debug\SmartBackupper.pdb
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.csproj.AssemblyReference.cache
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.AddPath.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.ComparePaths.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.MainForm.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.ProgressForm.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.Properties.Resources.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.UC_listbox1.resources
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.csproj.GenerateResource.cache
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.exe
+D:\Projekty\C#\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.pdb
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\bin\Debug\SmartBackupper.exe.config
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\bin\Debug\SmartBackupper.exe
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\bin\Debug\SmartBackupper.pdb
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.csproj.AssemblyReference.cache
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.AddPath.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.ComparePaths.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.MainForm.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.ProgressForm.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.Properties.Resources.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.UC_listbox1.resources
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.csproj.GenerateResource.cache
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.exe
+D:\Projekty\C#\Winforms\SmartTransfer\SmartBackupper2\SmartBackupper\obj\Debug\SmartBackupper.pdb
